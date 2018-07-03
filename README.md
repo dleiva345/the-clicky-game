@@ -12,6 +12,8 @@ The Clicky Game is a memory game created with React.The application breaks up th
 - - -
 
 ## Demo
+https://dleiva345.github.io/the-clicky-game/
+- - -
 
 
 ## Ta-Da! ScreenShot of Application- UI/UX will improve- Still working on Application 
