@@ -6,11 +6,11 @@
 </ul>
 
 <h2>About the Code</h2>
-<p>
-1.Create the React Client-side boilerplate by typing create-react-app the-clicky-game in the command line.  
-2.cd into the-clicky-game 
-3.type yarn start to open application
-</p>
+<ul>
+  <li>Create the React Client-side boilerplate by typing create-react-app the-clicky-game in the command line</li>  
+  <li>cd into the-clicky-game</li> 
+  <li>type yarn start to open application</li>
+</ul>
 
 <h4>Components</h4>
 <ul>
@@ -27,9 +27,9 @@
 
 <h2>Technologies Used:</h2>
 <ul>
-  <li>React.js- UI</li>
-  <li>Bootstrap- CSS framework</li>
+  <li>React.js</li>
+  <li>Bootstrap</li>
 </ul>
-
+<br>
 
 <footer>Completed by the Debster</footer>
